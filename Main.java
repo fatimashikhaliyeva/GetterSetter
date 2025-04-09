@@ -1,4 +1,4 @@
-package Modul1;
+package Modul1.ObjectConstructorEncapsulation;
 
 import java.security.spec.RSAOtherPrimeInfo;
 
