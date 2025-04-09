@@ -1,4 +1,4 @@
-package Modul1;
+package Modul1.ObjectConstructorEncapsulation;
 
 public class Book {
     private String title;
